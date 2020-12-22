@@ -74,6 +74,8 @@ $ rtabmap-databaseViewer ~/.ros/rtabmap.db
 * Choose View -> Constraints View and Graph View
 * To see 3D Map, Choose Edit -> View 3D Map ...
 
+![Alt](images/map_f.gif) 
+
 ![Alt](images/view_f.gif) 
 
 ![Alt](images/3d_map_f.gif) 
